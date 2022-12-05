@@ -1,4 +1,4 @@
 #Space Hack Practise
 
 
-[Figma design](https://www.figma.com/file/oHzAfe4fp1kqtnQiZwTrbY/Space-hack?t=Hz0XqG98EL0uHQCF-0) 
+![Figma design](https://github.com/Shirak22/space_hack/blob/master/assets/Screenshot.png) 
